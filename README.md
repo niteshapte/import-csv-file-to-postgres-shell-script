@@ -1,7 +1,7 @@
 # Import CSV Files to PostgreSQL Using Shell Script
 This repository contains a shell script for importing CSV files into a PostgreSQL database. The script automatically creates tables based on CSV headers and imports the data.
 
-**Blog -**: https://blog.niteshapte.com/2024-10-09-how-to-import-csv-files-to-postgres-using-shell-script.htm
+#### Blog: https://blog.niteshapte.com/2024-10-09-how-to-import-csv-files-to-postgres-using-shell-script.htm
 
 ## Prerequisites
 #### Create the .pgpass file in the home folder
